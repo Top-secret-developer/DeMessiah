@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 May 2025 14:39:28 at https://hartleysmarket.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hartleysmarket.com/ -O1 "C:\My Web Sites\De Messiah African Market" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:40:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://hartleysmarket.com/wp-content/plugins/astra-addon/addons/nav-menu/assets/css/minified/magamenu-frontend.min.css?ver=4.5.1
+14:40:57	Error: 	"Forbidden" (403) at link https://hartleysmarket.com/xmlrpc.php?rsd (from https://hartleysmarket.com/)
+14:42:07	Warning: 	Moved Permanently for https://hartleysmarket.com/product/
+14:42:07	Warning: 	File has moved from https://hartleysmarket.com/product/ to https://hartleysmarket.com/products/
+14:42:09	Warning: 	Moved Permanently for https://hartleysmarket.com/?p=5595
+14:42:09	Warning: 	File has moved from https://hartleysmarket.com/?p=5595 to https://hartleysmarket.com/products/
+14:42:09	Warning: 	Moved Permanently for https://hartleysmarket.com/?p=239
+14:42:09	Warning: 	File has moved from https://hartleysmarket.com/?p=239 to https://hartleysmarket.com/about/
+14:42:09	Warning: 	Moved Permanently for https://hartleysmarket.com/?p=5596
+14:42:09	Warning: 	File has moved from https://hartleysmarket.com/?p=5596 to https://hartleysmarket.com/contact/
+14:42:11	Error: 	"Not Found" (404) at link https://hartleysmarket.com/wp-content/plugins/wpforms-lite/assets/pro/images/times-solid-white.svg (from https://hartleysmarket.com/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-base.min.css?ver=1.9.4.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 43 seconds : 140 links scanned, 133 files written (76763075 bytes overall) [76140603 bytes received at 467120 bytes/sec], 963125 bytes transferred using HTTP compression in 5 files, ratio 15%, 1.6 requests per connection
+(2 errors, 9 warnings, 0 messages)
